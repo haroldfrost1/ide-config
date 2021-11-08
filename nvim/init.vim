@@ -1,3 +1,4 @@
+source $HOME/.config/nvim/modules/polyglot.vim
 source $HOME/.config/nvim/plugins.vim
 
 " Key mappings and general configs

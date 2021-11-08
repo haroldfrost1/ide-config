@@ -53,6 +53,8 @@ Plug 'tomasiser/vim-code-dark'
 
 Plug 'pantharshit00/vim-prisma'
 
+Plug 'sheerun/vim-polyglot'
+
 " Unmanaged plugin (manually installed and updated)
 " Plug '~/my-prototype-plugin'
 
